@@ -14,6 +14,7 @@ toc::[]
 //   - Kumudu Herath
 // tags: ["AWS", "ROSA", "STS"]
 // ---
+Test
 
 To proceed with the deployment of a ROSA cluster, an account must support the required roles and permissions.
 AWS Service Control Policies (SCPs) cannot block the API calls made by the installer or operator roles.
